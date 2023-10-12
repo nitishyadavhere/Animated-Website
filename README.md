@@ -13,7 +13,7 @@ I'm excited to unveil a testament to my skills in CSS & JS - a captivating, resp
 ## Links:
 GitHub Repo: https://github.com/nitishyadavhere/Animated-Website
 <br/>
-View Demo: 
+View Demo: https://nitishyadavhere.github.io/Animated-Website/
 
 💡 Note: The animations are fully functional only for desktop
 
