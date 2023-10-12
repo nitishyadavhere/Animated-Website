@@ -11,9 +11,9 @@ I'm excited to unveil a testament to my skills in CSS & JS - a captivating, resp
     ✅ HTML, ✅ CSS, ✅ JS
 
 ## Links:
-GitHub Repo: https://github.com/kappilyadav/CynthiaUgwu
+GitHub Repo: https://github.com/nitishyadavhere/Animated-Website
 <br/>
-View Demo: https://kappilyadav.github.io/CynthiaUgwu
+View Demo: 
 
 💡 Note: The animations are fully functional only for desktop
 
